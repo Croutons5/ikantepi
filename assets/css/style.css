@@ -1258,10 +1258,16 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   background: url(../img/icon/dribble.webp);
 }
 .footer_social ul li a.youtube {
-  background: url(../img/icon/youtobe-bg.webp);
+  background: url(../img/icon/youtube-bg.webp);
 }
 .footer_social ul li a.twitter {
-  background: url(../img/icon/twittre.webp);
+  background: url(../img/icon/twitter.webp);
+}
+.footer_social ul li a.instagram {
+  background: url(../img/icon/instagram-bg.webp);
+}
+.footer_social ul li a.tiktok {
+  background: url(../img/icon/tiktok.webp);
 }
 
 @media only screen and (max-width: 575px) {
